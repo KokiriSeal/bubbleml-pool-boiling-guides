@@ -2,12 +2,12 @@
 
 Clear, reproducible **step-by-step instructions** for running custom FC72 pool-boiling
 simulations on a fresh Lambda cloud instance using the BubbleML / Flash-X reproducibility
-capsule — from a bare machine to a finished BubbleML HDF5 dataset.
+capsule.
 
 > **What this repo is:** documentation only. It does **not** contain or modify the
 > simulation code. It is a set of practical, fully worked setup guides I wrote while
 > learning to run and extend these simulations, aimed at making them reproducible by
-> someone starting from scratch. Every file edit and command is shown explicitly.
+> someone starting from scratch. File edit and commands are shown clearly.
 
 ## Credit / attribution
 
@@ -39,8 +39,8 @@ credit the original authors and papers for any use of the simulations themselves
 ## How to use
 
 Start with `LAMBDA_SETUP.md` to build the environment, then follow whichever simulation
-guide matches the run you want. Each guide is self-contained and notes where IP addresses
-and SSH key filenames must be replaced with your own.
+guide matches the run you want. Notes where IP addresses
+and SSH key filenames must be replaced with your own!
 
 ## License
 
